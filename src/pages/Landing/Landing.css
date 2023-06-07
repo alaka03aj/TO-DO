@@ -1,0 +1,27 @@
+.__landing__contents{
+    display: flex;
+
+}
+
+.__landing__buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.__navbar__login{
+    padding: 8px 16px;
+    border-radius: 2px;
+    border-color: #7B9EF8;
+    background-color: #F8F8FC;
+}
+
+.__navbar__signup{
+    padding: 8px 16px;
+    border: none;
+    background-color: #7B9EF8;
+    color: #fff;
+}
+
+.__landing__contents{
+    justify-content: space-evenly;
+}
