@@ -1,0 +1,28 @@
+.__navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.__navbar__buttons{
+    display: flex;
+    gap: 20px;
+}
+
+.__navbar__login{
+    padding: 8px 16px;
+    border-radius: 2px;
+    border-color: #7B9EF8;
+    background-color: #F8F8FC;
+}
+
+.__navbar__signup{
+    padding: 8px 16px;
+    border: none;
+    background-color: #7B9EF8;
+    color: #fff;
+}
+
+.__navbar__title{
+    display: flex;
+    align-items: center;
+}
